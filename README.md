@@ -1,7 +1,7 @@
 # fivem_seqlogger
 Seq support for FiveM.
 
-Seq is a centralized logging tool that supports many different languages and logging schemes. This resource utitlizes the "raw" JSON endpoing to pass events.
+Seq is a centralized logging tool that supports many different languages and logging schemes. This resource utitlizes the "raw" JSON endpoint to pass events.
 
 **NOTE**: Seq is a non-free tool past one user. See their pricing page for detailed information.
 
